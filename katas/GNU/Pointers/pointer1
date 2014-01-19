@@ -1,0 +1,15 @@
+#include <stdio.h>
+
+int main (int argc, char** argv) {
+  int *ip;
+  char *address[];
+  double* amount;
+
+  int *foo, *bar;
+  int *baz, quux; // A int pointer and int variable;
+
+  int i;
+  int *ip = &i;
+
+  return (0);
+}
